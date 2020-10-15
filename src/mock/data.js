@@ -10,8 +10,8 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: '',
-  name: '',
-  subtitle: '',
+  name: 'George Vasilescu',
+  subtitle: 'Front End Developer',
   cta: '',
 };
 
@@ -78,12 +78,12 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'http://www.linkedin.com/in/george-vasilescu-635550114',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/G1ESCU',
     },
   ],
 };

@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'George Vasilescu',
-  subtitle: 'Front End Developer',
+  subtitle: 'Web Developer',
   cta: '',
 };
 
@@ -33,7 +33,7 @@ export const projectsData = [
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/G1ESCU/Gatsby-Portfolio_0.0.git', // if no repo, the button will not show up
   },
   {
     id: nanoid(),

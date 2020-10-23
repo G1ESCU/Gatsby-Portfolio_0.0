@@ -21,7 +21,7 @@ exports.headData = headData;
 var heroData = {
   title: '',
   name: 'George Vasilescu',
-  subtitle: 'Front End Developer',
+  subtitle: 'Web Developer',
   cta: ''
 }; // ABOUT DATA
 
@@ -43,7 +43,7 @@ var projectsData = [{
   info: '',
   info2: '',
   url: '',
-  repo: 'https://github.com/cobidev/react-simplefolio' // if no repo, the button will not show up
+  repo: 'https://github.com/G1ESCU/Gatsby-Portfolio_0.0.git' // if no repo, the button will not show up
 
 }, {
   id: (0, _nanoid.nanoid)(),

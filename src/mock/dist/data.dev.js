@@ -28,8 +28,8 @@ var heroData = {
 exports.heroData = heroData;
 var aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
+  paragraphOne: 'sfsdadaddddddddddddddddddddddddddddddddddddddfsef',
+  paragraphTwo: 'fsddddddddddddddddddddddfsf         ',
   paragraphThree: '',
   resume: 'https://www.resumemaker.online/es.php' // if no resume, the button will not show up
 
@@ -76,11 +76,11 @@ exports.contactData = contactData;
 var footerData = {
   networks: [{
     id: (0, _nanoid.nanoid)(),
-    name: 'twitter',
+    name: 'instagram',
     url: ''
   }, {
     id: (0, _nanoid.nanoid)(),
-    name: 'codepen',
+    name: 'facebook',
     url: ''
   }, {
     id: (0, _nanoid.nanoid)(),
